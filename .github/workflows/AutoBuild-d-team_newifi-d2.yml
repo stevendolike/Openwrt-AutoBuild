@@ -42,7 +42,7 @@ on:
           - 'Full'
           - 'Clash'
           - 'Lite'
-          - 'ClashLite
+          - 'ClashLite'
       Tempoary_IP:
         description: '固件 IP 地址 [可选]'
         default: ''
